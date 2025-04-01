@@ -45,7 +45,7 @@ dy/dx + y = x
 
 1. Clonar el repositorio:
    ```sh
-   git clone https://github.com/JuanCrTo/mi-repositorio.git
+   git clone https://github.com/JuanCrTo/Ecuaciones-diferenciales-Ordinarias--Orden-y-Linealidad.git
    cd mi-repositorio
    ```
 2. Instalar dependencias:
