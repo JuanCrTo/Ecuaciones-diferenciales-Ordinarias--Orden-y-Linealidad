@@ -76,28 +76,6 @@ Ejemplo de formato correcto:
 dy/dx + y = x
 ```
 
-## 🚀 Instalación y Ejecución
-
-1. Clonar el repositorio:
-   ```sh
-   git clone https://github.com/JuanCrTo/Ecuaciones-diferenciales-Ordinarias--Orden-y-Linealidad.git
-   cd Ecuaciones-diferenciales-Ordinarias--Orden-y-Linealidad
-   ```
-2. Instalar dependencias:
-   ```sh
-   npm install
-   ```
-3. Ejecutar la aplicación en modo desarrollo:
-   ```sh
-   npm run dev
-   ```
-4. Abrir en el navegador:
-   ```
-   http://localhost:3000
-   ```
-
----
-
 ## 📊 Ejemplos de Ecuaciones y su Clasificación
 
 A continuación, se presentan 30 ecuaciones diferenciales con su **orden** y si son **lineales** o **no lineales**.
