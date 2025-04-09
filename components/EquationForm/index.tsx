@@ -1,12 +1,8 @@
-// /components/EquationForm.tsx
-import { useState } from 'react';
+import { useState } from "react";
+import { IProps } from "./Props.interface";
 
-interface Props {
-  onAnalyze: (equation: string) => void;
-}
-
-const EquationForm: React.FC<Props> = ({ onAnalyze }) => {
-  const [equation, setEquation] = useState('');
+const EquationForm: React.FC<IProps> = ({ onAnalyze }) => {
+  const [equation, setEquation] = useState("");
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
